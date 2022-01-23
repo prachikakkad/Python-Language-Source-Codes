@@ -1,0 +1,5 @@
+file = open("Prachi.txt", 'r')
+a = file.seek(3)
+b = file.read()
+print(b)
+file.close()

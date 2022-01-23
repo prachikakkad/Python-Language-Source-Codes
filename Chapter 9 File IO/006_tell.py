@@ -1,0 +1,7 @@
+file = open("Prachi.txt", 'r+')
+a = file.tell()
+print(a)
+b = file.write("Kakkad")
+c = file.tell()
+print(c)
+file.close()

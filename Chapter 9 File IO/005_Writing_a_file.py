@@ -1,0 +1,8 @@
+file = open("Prachi.txt", 'w')
+a = file.write("Prachi")
+print(a)
+file.close()
+extra = open("Prachi.txt", 'r')
+b = extra.read()
+print(b)
+extra.close()
