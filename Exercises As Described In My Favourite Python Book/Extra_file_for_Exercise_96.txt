@@ -1,0 +1,10 @@
+In Python you can create lists.
+In Python you can create dictionaries.
+In Python you can create classes.
+In Python you can create functions.
+In Python you can create objects using classes.
+In Python you can create variables.
+In Python you can create websites.
+In Python you can learn Data Science.
+In Python you can learn Django.
+In Python you can create games.
